@@ -1,0 +1,4 @@
+name = "ForecastingScores"
+uuid = "1e53bd5b-7f00-4652-bb65-a329a6f21b0e"
+authors = ["Ben Butterworth <sw19145@bristol.ac.uk>"]
+version = "0.1.0"
